@@ -1,0 +1,12 @@
+.nav-item-link li {
+  width: 205px;
+}
+.nav-item-link a,
+.nav-item-link a:hover {
+  height: 51px;
+  text-align: center;
+  color: #19206f;
+}
+.nav-link.active {
+  color: #19206f !important;
+}

@@ -2,6 +2,7 @@ Pre-requisites
  - Need Rails 5.x.x configured
  - ruby 2.5.1
  - postgres
+ - Node.js Installed
 
 Steps for configuration
 - copy project repo from => git clone (LINK)
@@ -16,5 +17,6 @@ Steps for configuration
 
 - for react up and running 
  - cd ../test-react-rails-app/arrival-departure-front
+ => "npm install"
  => to start react server on port 3000
     - yarn start
